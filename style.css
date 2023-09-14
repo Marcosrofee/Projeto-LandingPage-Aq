@@ -1,0 +1,87 @@
+*{margin: 0px;}
+
+#MenuSuperior{background-image: url(imagens/Fundo.svg);
+width: -1040px;
+height: 475px;
+margin-left:-10px ;}
+
+#TextosSuperior{    
+color: #FFFFFF;
+margin-left: 100px;
+margin-top:150px;
+font-family:serif;
+font-size: 60px;
+font-weight: 600;
+line-height: 72px;
+letter-spacing: -0.025em;
+text-align: left;}
+
+
+#TextosSuperior2{
+color: #FFFFFF;
+font-family: serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+width: 1024px;
+height: 28px;
+margin-top: -1px;
+margin-left:110px;
+margin-bottom: 100px;}
+
+#incones{margin-top:-30px;
+ ;}
+
+#MenuInformacional{
+margin: 40px;
+display: grid;
+grid-auto-flow: column;
+columns: auto;}
+
+#Tx1{margin-top:140px ;
+margin-left:150px ;
+width: 735px;
+height: 161px; }    
+
+#Tx2{
+margin-top:199px;
+margin-left:-730px;
+font-size: 20px;
+letter-spacing: 0px;}
+
+#ImgInfor{margin-left:-125px ;
+margin-bottom: 100px;}
+
+#MenuFormulario{
+background-color: #303030; 
+width: 1350px;
+height: 938px;
+margin-left: -930px;}
+
+#Textinferior{ 
+color: #FFFFFF;
+text-align: center;
+margin-top: 100px;}
+
+#MenuForm{margin: 105px;
+margin-top: 100px;
+margin-left: 500px;}
+
+input{ 
+width: 508px;
+height: 72px;
+margin-top: 20px;
+margin-left: -96px;
+border-radius: 10px;
+padding-left: 15px;
+margin-bottom: 25px;}
+
+button{
+width: 286px;
+height: 74px;
+top: 1955px;
+left: 577px;
+border-radius: 10px;
+background: #C07212;}
